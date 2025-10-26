@@ -2,6 +2,9 @@
 ### 🚀 Overview
 This project is a Manufacturing Downtime Analysis designed to visualize and analyze manufacturing or operational efficiency data. Its purpose is to clearly identify, quantify, and assign the root causes of operational inefficiency. The analysis focuses on performance variations by operator and the most frequent downtime factors, leading directly to targeted, actionable recommendations. 
 
+<img width="1792" height="783" alt="Dash1" src="https://github.com/user-attachments/assets/51b1e6a3-0a06-492e-bac0-b24da53c3580" />
+
+
 ### 📊 Key Findings & Data Insights
 The overall line efficiency currently sits at 64%. The analysis highlights specific areas for improvement:
 
