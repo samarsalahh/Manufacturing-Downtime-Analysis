@@ -32,6 +32,19 @@ Machine adjustment   118       79      120        -       Dennis and Charlie con
 Batch change          -        -       -         130      Mac is solely responsible for this issue.
 Inventory shortage    -        85      -         80       Shared issue between Dee and Mac.
 
+
+
+## ⚙️ Downtime by Operator and Key Insights
+
+| **Factor** | **Charlie** | **Dee** | **Dennis** | **Mac** | **Key Insight** |
+|-------------|-------------|----------|-------------|----------|------------------|
+| **Machine adjustment** | 118 | 79 | 120 | - | Dennis and Charlie contribute most to this issue. |
+| **Batch change** | - | - | - | 130 | Mac is solely responsible for this issue. |
+| **Inventory shortage** | - | 85 | - | 80 | Shared issue between Dee and Mac. |
+
+
+
+
 Conclusion: We should focus on Machine adjustment training for everyone and specific Batch change training for Mac, as his performance in this area is a unique and significant bottleneck.
 
 ##### ✅ Recommendations
