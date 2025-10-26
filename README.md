@@ -27,14 +27,6 @@ The Pareto Chart shows that the top 5 factors account for 80% of the total downt
    
 A crucial part of this analysis is linking the top 5 downtime causes to the operators who experienced them most often. 
 This table reveals that the 3 most significant factors are primarily due to operator error or interaction:
-Factor             Charlie     Dee     Dennis     Mac     Key Insight
-Machine adjustment   118       79      120        -       Dennis and Charlie contribute most to this issue.
-Batch change          -        -       -         130      Mac is solely responsible for this issue.
-Inventory shortage    -        85      -         80       Shared issue between Dee and Mac.
-
-
-
-## ⚙️ Downtime by Operator and Key Insights
 
 | **Factor** | **Charlie** | **Dee** | **Dennis** | **Mac** | **Key Insight** |
 |-------------|-------------|----------|-------------|----------|------------------|
