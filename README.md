@@ -17,20 +17,20 @@ Conclusion: We should place special focus on Mac to raise the overall line perfo
 2. Dominant Downtime Factors (Pareto Analysis)
 The Pareto Chart shows that the top 5 factors account for 80% of the total downtime. Our focus should be exclusively on these five:
 
-> Machine adjustment (Highest total downtime: 332 units)
-> Machine failure
-> Inventory shortage
-> Batch change
-> Batch coding error
+- Machine adjustment (Highest total downtime: 332 units)
+- Machine failure
+- Inventory shortage
+- Batch change
+- Batch coding error
 
 3. Operator Accountability for Key Downtime Factors
    
 A crucial part of this analysis is linking the top 5 downtime causes to the operators who experienced them most often. 
 This table reveals that the 3 most significant factors are primarily due to operator error or interaction:
-Factor,Charlie,Dee,Dennis,Mac,Key Insight
-Machine adjustment,118,79,120,-,Dennis and Charlie contribute most to this issue.
-Batch change,-,-,-,130,Mac is solely responsible for this issue.
-Inventory shortage,-,85,-,80,Shared issue between Dee and Mac.
+Factor             Charlie     Dee     Dennis     Mac     Key Insight
+Machine adjustment   118       79      120        -       Dennis and Charlie contribute most to this issue.
+Batch change          -        -       -         130      Mac is solely responsible for this issue.
+Inventory shortage    -        85      -         80       Shared issue between Dee and Mac.
 
 Conclusion: We should focus on Machine adjustment training for everyone and specific Batch change training for Mac, as his performance in this area is a unique and significant bottleneck.
 
